@@ -1,0 +1,4 @@
+问题：
+  如果导入项目时js报错，是因为myeclipse没有验证js。
+解决办法：
+  选中js文件，右键Myeclipse -> ManaValidation -> ExcludeResource(选中全部) -> OK
